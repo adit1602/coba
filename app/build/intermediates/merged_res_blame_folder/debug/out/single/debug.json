@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\menu_btm_menu.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\menu\\btm_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\layout_fragment_categories.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\layout\\fragment_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\font_proxima.otf.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\font\\proxima.otf"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "com.dicoding.foodiescovery.app-merged_res-52:/layout_fragment_home.xml.flat",
+        "source": "com.dicoding.foodiescovery.app-main-54:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\layout_fragment_favorites.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\drawable_ic_categories.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\drawable\\ic_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\drawable_ic_favorites.xml.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\drawable\\ic_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-merged_res-52:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

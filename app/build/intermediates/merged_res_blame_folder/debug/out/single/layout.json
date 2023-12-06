@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-mergeDebugResources-51:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.foodiescovery.app-mergeDebugResources-51:/layout/fragment_home.xml",
+        "source": "com.dicoding.foodiescovery.app-main-54:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-mergeDebugResources-51:\\layout\\fragment_favorites.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-mergeDebugResources-51:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-mergeDebugResources-51:\\layout\\fragment_categories.xml",
+        "source": "C:\\Users\\lenovo\\.gradle\\daemon\\8.0\\com.dicoding.foodiescovery.app-main-54:\\layout\\fragment_categories.xml"
+    }
+]
